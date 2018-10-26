@@ -1,0 +1,18 @@
+{
+  "name": "simple-moving-average-wasm",
+  "version": "0.0.0",
+  "description": "calculate simple moving average in WebAssembly",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "simple-moving-average",
+    "wasm"
+  ],
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
